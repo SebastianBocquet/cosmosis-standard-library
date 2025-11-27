@@ -27,12 +27,11 @@ def extract_one_point_prediction(sacc_data, block, data_type, section, **kwargs)
         theory_spline = interp1d(x_theory, theory, bounds_error=False, fill_value="extrapolate")
 
         window = None
-        for w in sacc_data.get_tag("windows", data_type, t):
+        for w in sacc_data.get_tag("window", data_type, t):
             if (window is not None) and (w is not window):
                 raise ValueError("Sacc likelihood currently assumes data types share a window object")
             window = w
 
-        # TO-DO: Check if the window thing is ok for 1pt stats and how to do the binning here either way.
         x_nominal = np.array(sacc_data.get_tag(key, data_type, t))
         
         if window is None:
@@ -42,12 +41,8 @@ def extract_one_point_prediction(sacc_data, block, data_type, section, **kwargs)
             theory_interpolated = theory_spline(x_window)
             index = sacc_data.get_tag("window_ind", data_type, t)
             weight = window.weight[:, index]
-
-            # TO-DO: Check this for real statistics, but should be ok.
-            # We don't automatically renormalize the weights.
-            # Some contexts, like the output from NaMaster,
-            # use non-unit-sum weights
-            binned_theory = (weight @ theory_interpolated)
+            # For 1 point statistics, the binned theory is just the average over the window function
+            binned_theory = (weight.T @ theory_interpolated) / weight.sum(axis=0)
 
         theory_vector.append(binned_theory)
         observable_min_vector.append(sacc_data.get_tag(f"{key}_min", data_type, t))
