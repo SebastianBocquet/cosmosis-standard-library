@@ -41,8 +41,11 @@ def extract_one_point_prediction(sacc_data, block, data_type, section, **kwargs)
             theory_interpolated = theory_spline(x_window)
             index = sacc_data.get_tag("window_ind", data_type, t)
             weight = window.weight[:, index]
-            # For 1 point statistics, the binned theory is just the average over the window function
-            binned_theory = (weight.T @ theory_interpolated) / weight.sum(axis=0)
+            # For 1 point statistics, the binned theory is just the average over the window function,
+            # so the weights need to be consistently normalised.
+            # Note that as we do not loop over the data points here (as in the twopoint case),
+            # we need to transpose the weight matrix (also as indices are now an array and not a single value).
+            binned_theory = (weight.T @ theory_interpolated)
 
         theory_vector.append(binned_theory)
         observable_min_vector.append(sacc_data.get_tag(f"{key}_min", data_type, t))
