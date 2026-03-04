@@ -1,5 +1,6 @@
 name: flexible_grid
 version: 1
+category: Obsolete
 purpose: Flexible intrinsic alignment implementation using grid-based bias model
 url: ''
 interface: bias_JB_interface.py

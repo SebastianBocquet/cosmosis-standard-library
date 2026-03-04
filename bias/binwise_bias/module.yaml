@@ -1,5 +1,6 @@
 name: binwise_bias
 version: 1
+category: Two-point Systematics
 purpose: Apply galaxy bias on a per-bin basis to galaxy power spectra
 url: ''
 interface: binwise_bias.py

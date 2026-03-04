@@ -1,5 +1,6 @@
 name: choose_ia
 version: 1
+category: Others
 purpose: Select intrinsic alignment parameters from suffixed versions
 url: ''
 interface: choose_ia_params.py

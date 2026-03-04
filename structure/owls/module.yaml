@@ -1,5 +1,6 @@
 name: owls
 version: 1
+category: Baryons
 purpose: Apply baryonic feedback effects to matter power spectrum using OWLS simulations
 url: https://virgo.dur.ac.uk/2010/02/12/OWLS/
 interface: owls_interface.py

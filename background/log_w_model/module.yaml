@@ -1,5 +1,6 @@
 name: "log_w_model"
 version: "1.0"
+category: Background
 purpose: "Implement Tripathi, Sangwan, Jassal (2017) w(z) model"
 url: ""
 interface: "log_w_model.py"

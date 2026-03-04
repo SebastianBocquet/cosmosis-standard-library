@@ -1,5 +1,6 @@
 name: des-y6-bao
 version: '1.0'
+category: BAO Likelihoods
 purpose: Compute the likelihood of DES Y6 BAO data
 url: ''
 interface: bao_y6_like.py

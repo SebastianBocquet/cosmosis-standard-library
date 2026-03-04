@@ -1,5 +1,6 @@
 name: Riess11
 version: '2011'
+category: Cepheid Likelihoods
 purpose: Likelihood of hubble parameter H0 from Riess et al supernova sample
 url: http://pdg.lbl.gov/2013/reviews/rpp2013-rev-bbang-nucleosynthesis.pdf
 interface: riess11.py

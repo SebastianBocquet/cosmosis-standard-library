@@ -1,5 +1,6 @@
 name: linear_alignments
 version: '1.0'
+category: Two-point Systematics
 purpose: Compute the terms P_II and P_GI which go into intrinsic aligment calculations
 url: ''
 interface: linear_alignments_interface.py

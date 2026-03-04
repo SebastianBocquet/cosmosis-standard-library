@@ -1,5 +1,6 @@
 name: BICEP2
 version: '20140314'
+category: CMB Likelihoods
 purpose: Compute the likelihood of the supplied CMB power spectra
 url: http://bicepkeck.org
 interface: bicep_interface.py

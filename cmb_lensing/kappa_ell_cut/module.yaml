@@ -1,5 +1,6 @@
 name: kappa_ell_cut
 version: '1.0'
+category: Two-point Systematics
 purpose: Apply minimum and maximum ell to cross-power spectra with CMB kappa.
 url: ''
 interface: kappa_beam.py

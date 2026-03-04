@@ -1,5 +1,6 @@
 name: "bacco_emulator"
 version: "7e0ca8b556da6ad8e11168026078b1d29920adcf"
+category: Emulators
 purpose: "Emulate the non-linear, baryonified, matter power spectrum"
 url: "https://bitbucket.org/rangulo/baccoemu"
 interface: "baccoemu_interface.py"

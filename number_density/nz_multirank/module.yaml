@@ -1,5 +1,6 @@
 name: nz_multirank
 version: 1
+category: Sample Properties
 purpose: Load, rank, and sample a set of density n(z) realisations from a FITS file
 url: ''
 interface: nz_multirank.py

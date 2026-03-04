@@ -1,5 +1,6 @@
 name: "EuclidEmulator2"
 version: "1.0.1"
+category: Emulators
 purpose: "Emulate the boost factors that convert the linear to non-linear power spectrum, including baryon corrections"
 url: "https://github.com/miknab/EuclidEmulator2"
 interface: "euclid_emaulator2_interface.py"

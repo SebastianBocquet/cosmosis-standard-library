@@ -1,5 +1,6 @@
 name: planck2018
 version: 3.01x
+category: CMB Likelihoods
 purpose: Likelihood function of CMB from Planck 2015 data
 url: ''
 interface: planck_interface.so

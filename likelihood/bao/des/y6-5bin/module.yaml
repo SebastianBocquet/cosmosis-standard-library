@@ -1,5 +1,6 @@
 name: des-y6-bao-5bins
 version: '1.0'
+category: BAO Likelihoods
 purpose: Compute the likelihood of DES Y6 BAO data using individual redshift bins
 url: ''
 interface: bao_y6_5bins_like.py

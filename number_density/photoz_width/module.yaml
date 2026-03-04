@@ -1,5 +1,6 @@
 name: photoz_bias
 version: 1
+category: Sample Properties
 purpose: Modify a set of loaded n(z) distributions with a stretch
 url: ''
 interface: photoz_width.py

@@ -1,5 +1,6 @@
 name: eboss_dr16_lya
 version: ""
+category: BAO Likelihoods
 purpose: Compute the likelihood of eBOSS DR16 from Lyman alpha 
 url: "https://svn.sdss.org/public/data/eboss/DR16cosmo/tags/v1_0_0/likelihoods/"
 interface: eboss_dr16_lya.py

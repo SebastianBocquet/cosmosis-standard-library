@@ -1,5 +1,6 @@
 name: consistency
 version: '1.1'
+category: Misc & Utilities
 purpose: Deduce missing cosmological parameters and check consistency
 url: ''
 interface: consistency_interface.py

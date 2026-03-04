@@ -1,5 +1,6 @@
 name: add_intrinsic
 version: '1.0'
+category: Two-point Systematics
 purpose: Sum together intrinsic aligments with shear signal
 url: ''
 interface: add_intrinsic.py

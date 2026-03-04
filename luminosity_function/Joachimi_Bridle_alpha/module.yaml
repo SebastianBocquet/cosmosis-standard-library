@@ -1,5 +1,6 @@
 name: Joachimi_Bridle_alpha
 version: '1.0'
+category: Sample Properties
 purpose: Calculate the gradient of the galaxy luminosity function at the limiting
     magnitude of the survey.
 url: ''

@@ -1,5 +1,6 @@
 name: balmes
 version: 1
+category: Strong Lensing Likelihoods
 purpose: 'Balmes & Corasaniti 2012 H0 Measurement likelihood'
 url: ''
 interface: balmes.py

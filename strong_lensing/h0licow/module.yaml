@@ -1,6 +1,7 @@
 name: h0licow
 version: 1
-purpose: ''
+category: Strong Lensing Likelihoods
+purpose: 'H0licow 2019 strong lensing likelihood'
 url: ''
 interface: time_delay_interface.py
 attribution:

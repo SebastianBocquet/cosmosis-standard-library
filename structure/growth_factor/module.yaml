@@ -1,5 +1,6 @@
 name: growth_factor
 version: 1
+category: Background
 purpose: returns linear growth factor and growth rate for flat cosmology with either
     const w or variable DE eos w(a) = w + (1-a)*wa
 url: ''

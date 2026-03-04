@@ -1,5 +1,6 @@
 name: pantheon_plus
 version: '2022'
+category: Supernova Likelihoods
 purpose: Likelihood of the Pantheon+ supernova analysis optionally combined with the SH0ES H0 measurement
 url: "https://pantheonplussh0es.github.io/"
 interface: pantheon_plus_shoes.py

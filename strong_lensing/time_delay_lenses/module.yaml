@@ -1,6 +1,7 @@
 name: strong_lens_time_delays
 version: 1
-purpose: ''
+category: Strong Lensing Likelihoods
+purpose: 'Time delay likelihood for strong lensing systems from COSMOGRAIL 2017'
 url: ''
 interface: time_delay_interface.py
 attribution: ['Bonvin et al, MNRAS, 465, 4, p.4914-4930']

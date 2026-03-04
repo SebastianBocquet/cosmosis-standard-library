@@ -1,5 +1,6 @@
 name: project_2d
 version: 1.0
+category: Two-point Mathematics
 purpose: Project 3D power spectra to 2D tomographic bins using the Limber approximation
 url: ''
 interface: project_2d.py

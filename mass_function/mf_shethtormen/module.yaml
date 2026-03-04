@@ -1,5 +1,6 @@
 name: Sheth-Tormen MF
 version: '1'
+category: Structure
 purpose: Code to compute the Sheth-Tormen mass function given Pk from CAMB, based
     on Komatsu's CRL
 url: http://www.mpa-garching.mpg.de/~komatsu/crl/

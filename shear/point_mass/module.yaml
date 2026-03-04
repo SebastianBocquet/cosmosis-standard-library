@@ -1,5 +1,6 @@
 name: add_gammat_point_mass
 version: 1
+category: Two-point Systematics
 purpose: Add point mass contributions to galaxy-galaxy lensing (gamma_t) signal
 url: ''
 interface: add_gammat_point_mass.py

@@ -1,5 +1,6 @@
 name: "hillipop"
 version: "1.0"
+category: CMB Likelihoods
 purpose: "Likelihood of the Planck high-ell data from the NPIPE re-analysis, using the Hillipop likelihood code."
 url: "github.com/planck-npipe/hillipop/"
 interface: "github.com/planck-npipe/hillipop/"
@@ -133,4 +134,3 @@ outputs:
         hillipop_like:
             meaning: Hillipop likelihood
             type: real
-

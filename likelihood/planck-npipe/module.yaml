@@ -1,5 +1,6 @@
 name: planck_npipe
 version: 1
+category: CMB Likelihoods
 purpose: Planck NPIPE CMB lensing likelihood
 url: https://github.com/carronj/planck_PR4_lensing
 interface: npipe_interface.py

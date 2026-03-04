@@ -1,5 +1,6 @@
 name: wl_spectra_ppf
 version: '1.0'
+category: Two-point Mathematics
 purpose: Compute weak lensing C_ell from P(k,z) and MG D(k,z) with the Limber integral
 url: ''
 interface: interface.so

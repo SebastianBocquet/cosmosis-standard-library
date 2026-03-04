@@ -1,5 +1,6 @@
 name: "add_magnification"
 version: "1"
+category: Two-point Systematics
 purpose: "Add magnification terms to C_ell"
 url: ""
 interface: "add_magnification.py"

@@ -1,5 +1,6 @@
 name: generate_observable_cls
 version: 1
+category: Obsolete
 purpose: Generate observable C_ell from theoretical power spectra including systematic effects
 url: ''
 interface: generate_observable_spectra_interface.py

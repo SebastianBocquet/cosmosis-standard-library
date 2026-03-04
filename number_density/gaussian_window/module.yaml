@@ -1,5 +1,6 @@
 name: gaussian_window
 version: 1
+category: Sample Properties
 purpose: Compute Gaussian n(z) window functions for weak lensing bins
 url: ''
 interface: gaussian_window.py

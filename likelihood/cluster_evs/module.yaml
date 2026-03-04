@@ -1,5 +1,6 @@
 name: Extreme_Value_Statistics
 version: 1.0
+category: Structure
 purpose: PDF of the maximum cluster mass given cosmological parameters
 url: ''
 interface: cluster_evs.py

@@ -1,5 +1,6 @@
 name: load_nz
 version: 1
+category: Sample Properties
 purpose: Load a number density n(z) for weak lensing from a file
 url: ''
 interface: load_nz.py

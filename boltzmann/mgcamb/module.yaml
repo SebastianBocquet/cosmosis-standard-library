@@ -1,5 +1,6 @@
 name: mgcamb
 version: Feb14
+category: Boltzmann
 purpose: Modified Gravity Boltzmann and background integrator for BG, CMB, and matter
     power
 url: http://www.sfu.ca/~aha25/MGCAMB.html

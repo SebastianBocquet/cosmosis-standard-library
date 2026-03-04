@@ -1,5 +1,6 @@
 name: qso
 version: "1"
+category: BAO Likelihoods
 purpose: Compute the likelihood of eBOSS DR14 D_v from QSO
 url: ""
 interface: eboss_dr14_qso.py

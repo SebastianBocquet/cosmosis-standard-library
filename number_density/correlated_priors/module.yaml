@@ -1,5 +1,6 @@
 name: correlated_priors
 version: 1
+category: Misc & Utilities
 purpose: Include correlations between nusiance parameters
 url: ''
 interface: correlated_priors.py

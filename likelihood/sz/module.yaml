@@ -1,5 +1,6 @@
 name: planck_sz
 version: '1.0'
+category: CMB Likelihoods
 purpose: Prior on sigma_8 * Omega_M ** 0.3 from Planck SZ cluster counts
 url: ''
 interface: sz.py

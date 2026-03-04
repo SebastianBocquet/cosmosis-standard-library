@@ -1,5 +1,6 @@
 name: copy
 version: '1.0'
+category: Misc & Utilities
 purpose: Copy a section to a new section
 url: ''
 interface: copy_section.py

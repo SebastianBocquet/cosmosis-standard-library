@@ -1,5 +1,6 @@
 name: cl_to_corr
 version: '1.0'
+category: Two-point Mathematics
 purpose: Compute correlation functions xi+, xi-, w, and gamma_t from C_ell
 url: ''
 interface: cl_to_corr.py

@@ -1,6 +1,7 @@
 #This is a template for module description files
 name: project_1d
 version: 1.0
+category: One-point Mathematics
 purpose: Predict 1pt observable functions to the final n(z) convolved form
 url: ''
 interface: project_1d.py

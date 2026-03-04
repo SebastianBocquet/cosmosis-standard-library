@@ -1,5 +1,6 @@
 name: additive_systematic
 version: 1
+category: Two-point Systematics
 purpose: Model additive systematic errors for HSC cosmic shear analysis
 url: ''
 interface: sys_model.py

@@ -1,5 +1,6 @@
 name: WiggleZBao
 version: 1401.0358v2
+category: BAO Likelihoods
 purpose: Compute the likelihood of the supplied expansion history against WiggleZ
     BAO data
 url: http://www.smp.uq.edu.au/wigglez-data/

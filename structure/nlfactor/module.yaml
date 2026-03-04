@@ -1,5 +1,6 @@
 name: NLfactor
 version: Feb-2021
+category: Structure
 purpose: "Compute nonlinear weyl potential (and other) spectrum by multiplying the linear spectrum with matter_power_nl/matter_power_lin"
 url: 
 interface: NLfactor.py

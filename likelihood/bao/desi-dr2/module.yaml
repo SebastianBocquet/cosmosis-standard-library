@@ -1,5 +1,6 @@
 name: "desi_dr2"
 version: "arxiv"
+category: BAO Likelihoods
 purpose: "DESI BAO likelihood from DR2 data"
 url: "https://www.desi.lbl.gov/"
 interface: "desi_dr2.py"

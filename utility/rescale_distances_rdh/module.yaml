@@ -1,5 +1,6 @@
 name: "rescale_distances_rdh"
 version: "1.0"
+category: Background
 purpose: "Rescale computed distances to be consistent with a given value of R_d * h"
 url: ""
 interface: "rescale_distances_rdh.py"

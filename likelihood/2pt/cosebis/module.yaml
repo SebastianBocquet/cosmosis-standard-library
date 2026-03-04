@@ -1,5 +1,6 @@
 name: "simple_like"
 version: "1"
+category: Lensing and Clustering Likelihoods
 purpose: "Generate a simple 2pt likelihood given data, theory and covariance with no cuts"
 url: ""
 interface: simple_like.py

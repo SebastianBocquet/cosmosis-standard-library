@@ -1,5 +1,6 @@
 name: cl_to_xi_wigner_d
 version: '1.0'
+category: Two-point Mathematics
 purpose: Compute correlation functions from power spectra
 url: ''
 interface: wigner_cl_xi_interface.py

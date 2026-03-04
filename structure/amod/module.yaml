@@ -1,5 +1,6 @@
 name: amod
 version: 1.0
+category: Baryons
 purpose: Modify the non-linear matter power spectrum using the A_mod phenomenological parameterization
 url: ""
 interface: amod.py
@@ -46,4 +47,3 @@ outputs:
         p_k:
             meaning: Modified non-linear power spectrum
             type: real 1d
-

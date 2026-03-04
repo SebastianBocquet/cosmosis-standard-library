@@ -1,5 +1,6 @@
 name: jla
 version: '3'
+category: Supernova Likelihoods
 purpose: Supernova likelihood for SDSS-II/SNLS3
 url: http://supernovae.in2p3.fr/sdss_snls_jla/ReadMe.html
 interface: jla.so

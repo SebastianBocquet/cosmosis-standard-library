@@ -1,5 +1,6 @@
 name: "candl"
 version: "1.0.0"
+category: CMB Likelihoods
 purpose: "Interface with candl."
 url: "https://github.com/Lbalkenhol/candl"
 interface: "candl_cosmosis_interface.py"

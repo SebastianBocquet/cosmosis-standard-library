@@ -1,6 +1,7 @@
 name: mgs
 version: ""
 url: "https://svn.sdss.org/public/data/eboss/DR16cosmo/tags/v1_0_0/likelihoods/"
+category: BAO Likelihoods
 purpose: Compute the likelihood of MGS BAO and FS as distributed by eBOSS DR16
 interface: mgs.py
 attribution: MGS team, eBOSS DR16 team

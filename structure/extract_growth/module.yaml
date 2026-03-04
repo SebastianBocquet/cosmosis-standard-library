@@ -1,5 +1,6 @@
 name: extract_growth
 version: 1
+category: Structure
 purpose: returns growth factor and growth rate by examining small-scale P(k)
 url: ''
 interface: extract_growth.py

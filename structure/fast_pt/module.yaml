@@ -1,5 +1,6 @@
 name: "fast_pt"
 version: "1"
+category: Misc & Utilities
 purpose: "Compute various 1-loop perturbation theory quantities"
 url: "https://github.com/JoeMcEwen/FAST-PT"
 interface: "fast_pt_interface.py"

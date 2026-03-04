@@ -1,5 +1,6 @@
 name: boss_dr12
 version: 1607.03155v1
+category: BAO Likelihoods
 purpose: Compute the likelihood of the supplied expansion and growth history against
     BOSS DR12 data
 url: https://www.sdss3.org/science/boss_publications.php

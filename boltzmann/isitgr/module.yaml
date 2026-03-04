@@ -1,5 +1,6 @@
 name: isitgr-camb
 version: '1.1'
+category: Boltzmann
 purpose: Modified version of CAMB to implement phenomenological modified gravity models
 url: http://www.utdallas.edu/~jdossett/isitgr
 interface: camb.so

@@ -1,5 +1,6 @@
 name: apply_astrophysical_biases
 version: '1.0'
+category: Two-point Systematics
 purpose: Apply various astrophysical biases to the matter power spectrum P(k,z)
 url: ''
 interface: interface.so

@@ -1,5 +1,6 @@
 name: stop
 version: '1.0'
+category: Misc & Utilities
 purpose: Enters python debugger.
 url: ''
 interface: stop.py

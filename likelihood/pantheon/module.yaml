@@ -1,5 +1,6 @@
 name: pantheon
 version: '2018'
+category: Supernova Likelihoods
 purpose: Likelihood of the Pantheon supernova analysis
 url: http://dx.doi.org/10.17909/T95Q4X
 interface: pantheon.py

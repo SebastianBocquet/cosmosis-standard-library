@@ -1,5 +1,6 @@
 name: Riess16
 version: '2016'
+category: Cepheid Likelihoods
 purpose: Likelihood of hubble parameter H0 from Riess et al 2.4% supernova sample
 url: http://iopscience.iop.org/article/10.3847/0004-637X/826/1/56/pdf
 interface: riess11.py

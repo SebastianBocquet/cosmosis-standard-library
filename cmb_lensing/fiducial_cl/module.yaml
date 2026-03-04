@@ -1,5 +1,6 @@
 name: fiducial_cl
 version: 1
+category: Obsolete
 purpose: Replace CMB power spectra with fiducial values from data files
 url: ''
 interface: fiducial_cl.py

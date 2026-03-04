@@ -1,5 +1,6 @@
 name: hmcode_eta
 version: 1
+category: Two-point Mathematics
 purpose: Compute eta parameter for HMCode based on concentration amplitude A
 url: ''
 interface: hmcode_eta.py

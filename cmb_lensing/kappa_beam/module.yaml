@@ -1,5 +1,6 @@
 name: kappa_beam
 version: '1.0'
+category: Two-point Systematics
 purpose: Apply smoothing function to cross-correlations with CMB kappa in harmonic
     space.
 url: ''

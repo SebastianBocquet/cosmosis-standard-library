@@ -1,5 +1,6 @@
 name: cl_to_xi_fullsky
 version: 1
+category: Two-point Mathematics
 purpose: Transform angular power spectra C_ell to real-space correlation functions
 url: ''
 interface: cl_to_xi_interface.py

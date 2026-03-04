@@ -1,5 +1,6 @@
 name: "astropy_background"
 version: "2.0"
+category: Background
 purpose: "Calculate background cosmology using astropy"
 url: "https://docs.astropy.org/en/stable/cosmology/index.html"
 interface: "astropy_background.py"

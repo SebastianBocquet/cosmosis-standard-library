@@ -1,5 +1,6 @@
 name: load_nz_sacc
 version: 1
+category: Sample Properties
 purpose: Load number density n(z) from a SACC file for weak lensing
 url: ''
 interface: load_nz_sacc.py

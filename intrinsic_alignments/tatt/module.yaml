@@ -1,5 +1,6 @@
 name: tatt
 version: 1
+category: Two-point Systematics
 purpose: Compute intrinsic alignment power spectra using Tidal Alignment + Tidal Torquing model
 url: ''
 interface: tatt_interface.py

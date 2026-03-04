@@ -1,5 +1,6 @@
 name: smail
 version: 1
+category: Sample Properties
 purpose: Compute window functions for photometric n(z)
 url: ''
 interface: photometric_smail.py

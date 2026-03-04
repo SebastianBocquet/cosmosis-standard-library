@@ -1,5 +1,6 @@
 name: des-y5-sn
 version: '1.0'
+category: Supernova Likelihoods
 purpose: Compute the likelihood of DES Y5 Supernova data
 url: ''
 interface: des_y5_sn_likelihood.py

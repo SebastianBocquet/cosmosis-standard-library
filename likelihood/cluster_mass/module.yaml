@@ -1,5 +1,6 @@
 name: Cluster_mass
 version: '1.0'
+category: Other Likelihoods
 purpose: Likelihood of z=1.59 Cluster mass from Santos et al. 2011
 url: ''
 interface: cluster_mass.py

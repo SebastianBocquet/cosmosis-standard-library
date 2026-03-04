@@ -1,5 +1,6 @@
 name: JulloLikelihood
 version: '2012'
+category: Other Likelihoods
 purpose: Likelihood of Jullo et al (2012) measurements of a galaxy bias sample
 url: http://www.sdss3.org
 interface: jullo.py

@@ -1,5 +1,6 @@
 name: random_fail
 version: 1
+category: Misc & Utilities
 purpose: Randomly fail pipeline runs for testing purposes
 url: ''
 interface: random_fail.py

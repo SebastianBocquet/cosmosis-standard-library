@@ -1,5 +1,6 @@
 name: "planck_py"
 version: "1.0"
+category: CMB Likelihoods
 purpose: "Lightweight python-based Planck likelihood code"
 url: "https://github.com/heatherprince/planck-lite-py"
 interface: "planck_py_interface.py"

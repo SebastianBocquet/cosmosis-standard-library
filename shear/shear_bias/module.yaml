@@ -1,5 +1,6 @@
 name: shear_bias
 version: 1
+category: Two-point Systematics
 purpose: Modify a set of calculated shear C_ell with a multiplicative bias
 url: ''
 interface: shear_bias.py

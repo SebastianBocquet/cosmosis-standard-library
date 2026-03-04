@@ -1,5 +1,6 @@
 name: baryonic
 version: "1.0"
+category: Baryons
 purpose: "Apply baryonic effects to nonlinear pk based on hydrodynamic simulation measurements"
 url: ""
 interface: baryonic_interface.py

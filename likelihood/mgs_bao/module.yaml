@@ -1,5 +1,6 @@
 name: mgs_bao
 version: '1409.3242'
+category: BAO Likelihoods
 purpose: Compute the likelihood against SDSS MGS data
 url: ''
 interface: mgs_bao.py

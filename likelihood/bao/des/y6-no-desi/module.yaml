@@ -1,6 +1,7 @@
 #This is a template for module description files
 name: des-y6-bao-dr1tilesnoDESI
 version: '1.0'
+category: BAO Likelihoods
 purpose: Compute the likelihood of DES Y6 BAO data removing the DESI-DR1 area. This likelihood is meant to be combined with DESI DR1 or DR2 BAO, but not with future DESI releases.
 url: ''
 interface: bao_y6_dr1tilesnoDESI_like.py

@@ -1,5 +1,6 @@
 name: eboss_dr16_lrg
 version: ""
+category: BAO Likelihoods
 purpose: Compute the likelihood of eBOSS DR16 from LRG
 url: ""
 interface: eboss_dr16_lrg.py
@@ -62,4 +63,3 @@ outputs:
         eboss16_lrg_like:
             meaning: likelihood of BAO
             type: real
-

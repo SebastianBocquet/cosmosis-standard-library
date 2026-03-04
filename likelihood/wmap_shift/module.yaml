@@ -1,5 +1,6 @@
 name: wmap_shift
 version: 1.0
+category: CMB Likelihoods
 purpose: Massively simplified WMAP9 likelihood reduced to just shift parameter
 url: ''
 interface: wmap_shift.so

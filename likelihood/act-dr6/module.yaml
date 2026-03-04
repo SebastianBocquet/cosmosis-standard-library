@@ -1,5 +1,6 @@
 name: "act_dr6"
 version: "1.0.0"
+category: CMB Likelihoods
 purpose: "Full Multi-Frequency primary CMB from ACT DR6 data including systematics and foregrounds."
 url: "https://github.com/ACTCollaboration/act_dr6_mflike"
 interface: "act_dr6_interface.py"

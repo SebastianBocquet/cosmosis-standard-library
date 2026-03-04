@@ -1,5 +1,6 @@
 name: BBN-Consistency
 version: '0705.0290'
+category: Misc & Utilities
 purpose: Compute consistent Helium fraction from baryon density given BBN
 url: http://parthenope.na.infn.it/
 interface: bbn_consistency.py

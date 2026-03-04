@@ -1,5 +1,6 @@
 name: camb
 version: 2.0
+category: Boltzmann
 purpose: Boltzmann and background integrator for BG, CMB, and matter power
 url: http://camb.info
 interface: camb_interface.py

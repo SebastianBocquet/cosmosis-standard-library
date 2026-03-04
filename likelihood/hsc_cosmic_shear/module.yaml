@@ -1,5 +1,6 @@
 name: hsc_cosmic_shear
 version: '1'
+category: Lensing and Clustering Likelihoods
 purpose: Likelihoods of the HSC Year 3 cosmic shear data
 url: ''
 interface: hsc_cosmic_shear_like.py

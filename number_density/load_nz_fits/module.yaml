@@ -1,5 +1,6 @@
 name: load_nz_fits
 version: 1
+category: Sample Properties
 purpose: Load a number density n(z) from a FITS file
 url: ''
 interface: load_nz_fits.py

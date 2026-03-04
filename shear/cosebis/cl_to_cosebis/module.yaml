@@ -1,5 +1,6 @@
 name: cosebis
 version: Jan2023
+category: Two-point Mathematics
 purpose: "Calculate COSEBIs from C_ell power spectra"
 url: ""
 interface: cl_to_cosebis.so
@@ -116,4 +117,3 @@ outputs:
         input_section_name:
             type: str
             meaning: "Input section name for the C_ells"
-

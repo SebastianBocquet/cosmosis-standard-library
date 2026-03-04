@@ -1,5 +1,6 @@
 name: ia_z_powerlaw
 version: '2.0'
+category: Two-point Systematics
 purpose: 'Add redshift dependence to IA model'
 url: ''
 interface: ia_z_powerlaw.py

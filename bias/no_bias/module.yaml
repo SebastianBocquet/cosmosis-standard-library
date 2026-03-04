@@ -1,5 +1,6 @@
 name: no_bias
 version: 1
+category: Two-point Systematics
 purpose: Generate galaxy power P(k) as though galaxies were unbiased DM tracers
 url: ''
 interface: no_bias.py

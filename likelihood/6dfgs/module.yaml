@@ -1,5 +1,6 @@
 name: 6dFGS
 version: ''
+category: BAO Likelihoods
 purpose: Compute the likelihood of supplied D_v or fsigma8(z=0.067)
 url: ''
 interface: 6dfgs_rsd.py

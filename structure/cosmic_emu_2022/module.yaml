@@ -1,5 +1,6 @@
 name: CosmicEmu
 version: '3.0'
+category: Emulators
 purpose: Emulate N-body simulations to compute nonlinear matter power
 url: http://www.hep.anl.gov/cosmology/CosmicEmu/emu.html
 interface: interface.so

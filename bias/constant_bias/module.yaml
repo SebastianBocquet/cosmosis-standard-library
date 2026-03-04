@@ -1,5 +1,6 @@
 name: constant_bias
 version: 1
+category: Two-point Systematics
 purpose: Apply a galaxy bias constant with k and z.
 url: ''
 interface: constant_bias.py

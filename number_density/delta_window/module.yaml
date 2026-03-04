@@ -1,6 +1,7 @@
 #This is a template for module description files
 name: delta_window
 version: 1
+category: Sample Properties
 purpose: Compute Delta n(z) window functions for weak lensing bins
 url: ''
 interface: delta_window.py

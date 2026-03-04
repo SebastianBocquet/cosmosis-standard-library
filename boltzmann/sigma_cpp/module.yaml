@@ -1,5 +1,6 @@
 name: sigma_cpp
 version: 1.0
+category: Structure
 purpose: Compute anisotropy dispersion sigma(R,z) in cpp
 url: ''
 interface: sigma_cpp.py

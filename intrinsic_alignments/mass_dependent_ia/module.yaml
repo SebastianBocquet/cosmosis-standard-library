@@ -1,6 +1,7 @@
 #This is a template for module description files
 name: mass_dependent_ia_model
 version: '1.0'
+category: Two-point Systematics
 purpose: adds mass dependence to IA, with a linear equation
 url: ''
 interface: mass_dependent_ia_model.py

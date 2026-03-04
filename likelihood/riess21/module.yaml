@@ -1,5 +1,6 @@
 name: Riess21
 version: '2021'
+category: Cepheid Likelihoods
 purpose: Likelihood of hubble parameter H0 from Riess et al supernova sample
 url: ""
 interface: riess21.py

@@ -1,5 +1,6 @@
 name: class
 version: 2.4.1
+category: Boltzmann
 purpose: Boltzmann and background integrator for BG, CMB, matter power, and more
 url: http://class-code.net
 interface: class_interface.py

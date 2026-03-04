@@ -1,5 +1,6 @@
 name: photoz_distortion
 version: 1
+category: Sample Properties
 purpose: Apply photometric redshift systematic biases to n(z) distributions
 url: ''
 interface: photoz_distortion.py

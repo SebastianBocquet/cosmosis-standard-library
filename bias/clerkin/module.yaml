@@ -1,5 +1,6 @@
 name: clerkin
 version: 1
+category: Two-point Systematics
 purpose: Compute galaxy bias as function of k, z for 3-parameter Clerkin et al 2014
     model
 url: ''

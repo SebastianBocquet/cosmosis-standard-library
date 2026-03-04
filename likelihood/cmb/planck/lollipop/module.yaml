@@ -1,5 +1,6 @@
 name: "lollipop"
 version: "1.0"
+category: CMB Likelihoods
 purpose: "Likelihood of the Planck low-ell data polarizaton data from the PR4 analysis, using the Lollipop likelihood code."
 url: "https://github.com/planck-npipe/lollipop/"
 interface: "lollipop_interface.py"

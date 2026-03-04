@@ -1,5 +1,6 @@
 name: wl_spectra
 version: '1.0'
+category: Two-point Mathematics
 purpose: Compute various weak lensing C\_ell from P(k,z) with the Limber integral
 url: ''
 interface: interface.so

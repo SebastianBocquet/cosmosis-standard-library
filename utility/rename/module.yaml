@@ -1,5 +1,6 @@
 name: rename
 version: '1.0'
+category: Misc & Utilities
 purpose: Rename a section to a new name
 url: ''
 interface: rename_section.py

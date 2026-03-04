@@ -1,5 +1,6 @@
 name: w0wa_sum_prior
 version: '1.0'
+category: Misc & Utilities
 purpose: Skip parameter sample without failing if w0+wa>0.
 url: ''
 interface: w0wa_sum_prior.py

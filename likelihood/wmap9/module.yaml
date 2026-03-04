@@ -1,5 +1,6 @@
 name: wmap
 version: 5
+category: CMB Likelihoods
 purpose: Likelihood function of CMB from WMAP
 url: ''
 interface: wmap_interface.so

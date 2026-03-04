@@ -5,6 +5,7 @@ cite:
 
 name: BBN
 version: PDG13
+category: Other Likelihoods
 purpose: Simple prior on Omega_b h^2 from light element abundances
 url: http://pdg.lbl.gov/2013/reviews/rpp2013-rev-bbang-nucleosynthesis.pdf
 interface: bbn_ombh2.py

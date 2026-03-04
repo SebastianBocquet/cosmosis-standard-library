@@ -1,5 +1,6 @@
 name: lrg
 version: ""
+category: BAO Likelihoods
 purpose: Compute the likelihood of eBOSS DR14 D_v from LRG
 url: ""
 interface: eboss_dr14_lrg.py

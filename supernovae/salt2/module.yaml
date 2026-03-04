@@ -1,5 +1,6 @@
 name: salt2
 version: 1
+category: Supernova Likelihoods
 purpose: SALT2 supernova distance modulus likelihood
 url: ''
 interface: salt2_interface.py
